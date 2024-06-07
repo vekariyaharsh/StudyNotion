@@ -1,6 +1,6 @@
-# StudyNotion   [```live```](https://studynotion-abhikant.vercel.app/)
-
-StudyNotion is a fully functional ed-tech learning platform that enables users to create, consume, and rate educational content. The platform is built using the ```MERN stack``` , which includes ```ReactJS```,``` NodeJS```, ```MongoDB```, and ```ExpressJS```.
+# StudyNotion
+ ED-tech Platform
+ StudyNotion is a fully functional ed-tech learning platform that enables users to create, consume, and rate educational content. The platform is built using the ```MERN stack``` , which includes ```ReactJS```,``` NodeJS```, ```MongoDB```, and ```ExpressJS```.
 
 ### StudyNotion aims to provide:
 *	A seamless and interactive learning experience for students, making education more accessible and engaging.
@@ -36,32 +36,3 @@ The back end of StudyNotion provides a range of features and functionalities, in
 4.	**Cloud-based media management :** StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 5.	**Markdown formatting :** Course content in document format is stored in Markdown format, which allows for easier display and rendering on the front end.
 
-
-## Installation and Setup
-
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
-
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/abhikant12/Study-Notion.git
-    ```
-
-1. Install the required packages.
-    ```sh
-    npm install
-    ```
-
-1. Start the development server.
-    ```sh
-    npm run dev
-    ```
-1. Open the project in your browser at [http://localhost:3000](http://localhost:3000) to view your project.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request. 
-
-## Contact
-- Email: abhiparnav12@gmail.com
-- Linkedin: https://www.linkedin.com/in/abhikant12/
-- Website - [Abhikant Kumar](https://abhikant-portfolio.netlify.app/)
